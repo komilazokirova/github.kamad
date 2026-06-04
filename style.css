@@ -1,4 +1,6 @@
-body {
-    margin: 0;
-    font-family: Arial, sans-serif;
+
+header{
+    color: rgb(235, 23, 23);
+     font-size: 32px;
+     text-shadow: 15px;
 }
